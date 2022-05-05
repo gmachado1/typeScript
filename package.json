@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Curso da Udemy de Typescript\r Maximilian Schwarzmüller\r Professional Web Developer and Instructor\r https://www.udemy.com/course/understanding-typescript/learn/lecture/16949812#overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmachado1/typeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmachado1/typeScript/issues"
+  },
+  "homepage": "https://github.com/gmachado1/typeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
